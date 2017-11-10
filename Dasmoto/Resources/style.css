@@ -1,0 +1,39 @@
+body {
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+* {
+	font-family: Helvetica, sans-serif;
+}
+
+h1 {
+	background-image: url(pattern.jpeg);
+	text-align: center;
+	font-size: 100px;
+	font-weigh: bold;
+	color: khaki;
+}
+
+.header {
+	font-size: 32px;
+	font-weight: bold;
+	color:white;
+}
+
+.brushes.header {
+	background-color: mediumspringgreen;
+}
+
+.frames.header {
+	background-color: lightcoral;
+}
+
+.paint.header {
+	background-color: skyblue;
+}
+
+.pricetext {
+	font-weight: bold;
+	color: blue;
+}
